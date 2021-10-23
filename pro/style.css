@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h4{
+    color:black;
+    
+    /* font-size: 20px; */
+    text-align: center;
+    text-shadow: 2px 2px 2px grey;
+
+    /* margin-left: 340px; */
+    /* margin-bottom: 20px; */
+}
+.qq{
+    /* border: 2px solid black; */
+    margin-top: 100px;
+}
+#popo{
+    /* margin: 20px; */
+    padding: 5px;
+    padding-left: 10px;
+}
+.iii{
+    margin-top: 10px;
+}
+body{
+    width: 100%;
+    font-family: 'Quicksand', sans-serif;
+    /* display: flex; */
+    background-image: url("ppp.png");
+    /* background-size: contain; */
+    /* background-repeat: no-repeat; */
+}
+
+.yoyo{
+    box-shadow: 7px 7px 7px black;
+}
+
+.ll{
+    margin-top: 50px;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+    /* font-family:Georgia, 'Times New Roman', Times, serif; */
+}
